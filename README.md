@@ -22,7 +22,7 @@
 
 > Happy Hacking :)
 	
-<!-- ## Windows
+Windows
 - [1] - java --illegal-access=permit -Dfile.encoding=utf-8 -javaagent:"PATH\loader.jar" -noverify -jar "PATH\burpsuite_pro_v2022.*.*.jar"
 - [2] - java -jar keygen.jar
 - [3] - Activation
@@ -37,4 +37,4 @@
 		Set WshShell = CreateObject("WScript.Shell")
 		WshShell.Run chr(34) & "PATH\Burp-Suite\burpsuite-pro.bat" & Chr(34), 0
 		Set WshShell = Nothing
-* For Executing Burpsuite Double Click on burpsuite-pro.VBS file. -->
+* For Executing Burpsuite Double Click on burpsuite-pro.VBS file.
